@@ -1,0 +1,27 @@
+.head{
+    background-color:rgb(208, 221, 233);;
+}
+.shopcolor{
+    background-color: rgb(47, 173, 47);
+    height: 40px;
+}
+.todayscolor{
+    background-color: rgb(47, 173, 47);
+    height: 50px;
+}
+.prizecolor{
+    color: rgb(47, 173, 47);
+}
+.bfootercolor{
+    background-color: black;
+}
+.bfootertext{
+    color: white;
+}
+.sfootercolor{
+    background-color: black;
+    height: 60px;
+}
+.sfootertextcolor{
+    color: white;
+}
